@@ -51,6 +51,10 @@ The dashboard provides clear business insights into **sales, profit, customer be
 ### Page 2 – Profit & State Analysis
 ![Dashboard Page 2](2.png)
 
+## 📄 PDF Version
+[Download Dashboard PDF](Ecommerce_Dashboard.pdf)
+
+
 ---
 
 ## 🔑 Key Learnings
