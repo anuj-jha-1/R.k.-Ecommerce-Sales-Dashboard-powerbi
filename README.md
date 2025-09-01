@@ -52,7 +52,7 @@ The dashboard provides clear business insights into **sales, profit, customer be
 ![Dashboard Page 2](2.png)
 
 ## 📄 PDF Version
-[Download Dashboard PDF](Ecommerce_Dashboard.pdf)
+[Download Dashboard PDF](https://github.com/anuj-jha-1/R.k.-Ecommerce-Sales-Dashboard-powerbi/blob/main/Ecommerce_Dashboard.pdf)
 
 
 ---
